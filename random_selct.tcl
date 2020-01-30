@@ -1,6 +1,6 @@
 #################################################
-# Dakshitha Abegunawrdana and Sanjaya Viraj		#
-#   13.12.2019									#
+# Dakshitha Abegunawrdana and Sanjaya Viraj	#
+#   13.12.2019					#
 # script to select random phenol molecules      #
 #################################################
 
