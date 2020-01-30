@@ -1,8 +1,8 @@
 ######################################################
 # find Diffusion coefficient of one type of selected #
-# molecule within user defined radius.				 #
-# 	sanjaya viraj bandara 2019-Dec					 #			
-# 	sanjayavirajbandara@gmail.com					 #
+# molecule within user defined radius.		     #
+# 	sanjaya viraj bandara 2019-Dec		     #			
+# 	sanjayavirajbandara@gmail.com		     #
 ######################################################
 
 package require pbctools
