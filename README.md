@@ -11,3 +11,7 @@ Data will be written to the displacements_within20ofDen_COM.dat file.
 # MSD.tcl
 This script can be use to find Diffusion coefficient of one type of selected molecule within user defined radius. Here we calculated diffusion coefficient of phenol beads within 20 Angstrom of radius from center of mass of reference molecule. Reference molecule is "Segname D1" and phenols are "resname PHNL". Replace those two selections as your need.
 Data will be written to the MSD.dat file.
+
+# RMSS.tcl
+This script find Root mean square separation/displacement of selected atoms as an average value (Instead between two-usual practice in polymer chemistry). Replace indexes with your interested selection.
+Data will be written to the RMSS.dat file.
