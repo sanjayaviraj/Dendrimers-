@@ -1,8 +1,8 @@
 
 #################################################
 # Find Root mean square dispalcement/seperation #
-# sanjaya viraj bandara 2019-Dec				#
-#  sanjayavirajbandara@gmail.com 				#
+#  sanjaya viraj bandara 2019-Dec		#
+#  sanjayavirajbandara@gmail.com 		#
 #################################################
 package require pbctools
 pbc wrap -centersel "segname D1" -center com -compound residue -all
