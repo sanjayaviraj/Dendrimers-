@@ -15,3 +15,7 @@ Data will be written to the MSD.dat file.
 # RMSS.tcl
 This script find Root mean square separation/displacement of selected atoms as an average value (Instead between two-usual practice in polymer chemistry). Replace indexes with your interested selection.
 Data will be written to the RMSS.dat file.
+
+# random_slct.tcl
+This script can be use to select any number of molecules randomly when the molecule has four bonded beads (or atoms) but can not give one selection. Give the number of molecules you want to "goal" and selection to "sel_dn".
+A .pdb file will be generated contin randomly selected moleculs in working dir.
